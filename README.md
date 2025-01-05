@@ -1,4 +1,4 @@
-# MStudent Exam Performance Prediction: Flask Application for Data Analysis, Model Training, and Deployment
+# Student Exam Performance Prediction: Flask Application for Data Analysis, Model Training, and Deployment
 
 ## Table of Contents
 - [Project Overview](#project-overview)
